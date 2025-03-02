@@ -1,3 +1,81 @@
 h1 {
-    color: rgb(0, 0, 203);
-}
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+  }
+  
+  .webmoto {
+    text-align: center;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 10px; 
+  }
+  
+  body {
+    background-color: rgba(234, 234, 234, 0.968);
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px; 
+  }
+  
+  .profilescontainer {
+    background-color: blue;
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    border: 10px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .profiles {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  button {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 10px; 
+  }
+  
+  button img.profile-pic {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .profile1 {
+    background-color: #e74c3c;
+  }
+  
+  .profile2 {
+    background-color: #2ecc71;
+  }
+  
+  .profile3 {
+    background-color: #3498db;
+  }
+  

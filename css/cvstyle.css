@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Poppins-Regular';
+  src: url('fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  src: url('fonts/Poppins-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'Poppins-Medium';
+  src: url('fonts/Poppins-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'JuliusSansOne-Regular';
+  src: url('fonts/JuliusSansOne-Regular.ttf');
+}
+
+body{}
+ 
+.sidebar{background-color: #000000e6;
+  width: 300px;
+  height:100vh;
+  }
+
+.detailedsidebar{
+  background-color: #024355;
+  flex-grow: 1;
+  height: 100vh;
+
+ }
+ .cvprofilepic{width: 200px;
+  margin-left: 50px;
+height: 200px;
+border-radius: 100px;
+padding-top: 10px;
+margin-top: 30px;}
+
+.Personname{font-family: 'JuliusSansOne-Regular';
+  color: white;
+  text-align: center;
+}
+.occupation{
+  text-align: center;
+  color: white;
+  font-family: 'JuliusSansOne-Regular';
+  font-size: 14px;
+  font-weight: 400;
+}
+.email{}
+
+  .cvlayouts{display: flex;
+
+ }
+
+
+  

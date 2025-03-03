@@ -56,7 +56,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  /* align-items: center; */
 }
 
 .header {
@@ -67,7 +66,7 @@ body {
 }
 
 .profilescontainer {
-  background-color: #002a3c57; /* Transparent background */
+  background-color: #002a3c57;
   width: 600px;
   height: 400px;
   border-radius: 20px;
@@ -81,7 +80,7 @@ body {
 .profiles {
   display: flex;
   flex-direction: column;
-  gap: 50px; /* Increased space between buttons */
+  gap: 50px;
 }
 
 button {
@@ -109,7 +108,7 @@ button img.profile-pic {
   font-weight: 600;
   color: rgba(255, 255, 255, 0.973);
   border: 1px solid #ffffffa6;
-  font-family: 'JuliusSansOne-Regular'; /* Font applied to Profile 1 */
+  font-family: 'JuliusSansOne-Regular';
   background-color: #e74d3c00;
 }
 

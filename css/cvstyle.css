@@ -42,10 +42,9 @@ body{}
 
  }
  .cvprofilepic{width: 200px;
-  margin-left: 50px;
+  margin-left: 20px;
 height: 200px;
-border-radius: 100px;
-padding-top: 10px;
+border-radius: 200px;
 margin-top: 30px;}
 
 .Personname{font-family: 'JuliusSansOne-Regular';
@@ -88,17 +87,109 @@ font-size: 13px;}
   color: #fff4fd;}
 
   .cvlayouts{display: flex;
-
  }
- .profilelbl{ font-family: 'arial';
-  font-size: 33px;
-  font-weight: 600px;
 
+ .profilelbl{font-family: 'Poppins-Regular';
+  font-size: 20px;
+  font-weight: 600px
 }
-.profiledescription{font-family: 'arial';
-  font-size: 14px;
- 
+
+.profiledescription{font-family: 'Poppins-Regular';
+  word-spacing: 3px;
+  font-size: 14px
 }
+.skillacting{font-family: 'arial';
+  word-spacing: 3px;
+  font-size: 14px;}
+
+.direcandprskill{font-family: 'arial';
+    word-spacing: 3px;
+    font-size: 14px;}
+
+    .PSskill{font-family: 'arial';
+      word-spacing: 3px;
+      font-size: 14px}
+
+      .humanitarianskill{font-family: 'arial';
+        word-spacing: 3px;
+        font-size: 14px}
+
+        .HW{font-weight: 600;}
+        
+        .skillslbl{font-family: 'Poppins-Regular';
+          font-size: 20px;
+          font-weight: 600px}
+
+          .Workexplbl{font-family: 'Poppins-Regular';
+            font-size: 20px;
+            font-weight: 600px}
+
+            
+            .workexp{font-family: 'Poppins-Regular';
+              word-spacing: 3px;
+              font-size: 14px}
+
+              .Educationlbl{font-family: 'Poppins-Regular';
+                font-size: 20px;
+                font-weight: 600px}
+
+                .location2{font-family: 'Poppins-Regular';
+                  word-spacing: 3px;
+                  font-size: 14px}
+
+                .yearofedu{font-family: 'Poppins-Regular';
+                  word-spacing: 3px;
+                  font-size: 14px}
+
+                .coursestudied{font-family: 'Poppins-Regular';
+                  word-spacing: 3px;
+                  font-size: 14px}
+                  
+                  .skillacting{font-family: 'Poppins-Regular';
+                    word-spacing: 3px;
+                    font-size: 14px}
+
+                    .direcandprskill{font-family: 'Poppins-Regular';
+                      word-spacing: 3px;
+                      font-size: 14px}
+
+                    .PSskill{font-family: 'Poppins-Regular';
+                      word-spacing: 3px;
+                      font-size: 14px}
+
+                    .humanitarianskill{font-family: 'Poppins-Regular';
+                      word-spacing: 3px;
+                      font-size: 14px}
+
+              .School1{font-family: 'Poppins-Regular';
+                word-spacing: 3px;
+                font-size: 14px}
+
+                .school2{font-family: 'Poppins-Regular';
+                  word-spacing: 3px;
+                  font-size: 14px}
+
+                  .hobbieslbl{font-family: 'Poppins-Regular';
+                font-size: 20px;
+                font-weight: 600px}
+                
+
+              .HO1{font-family: 'Poppins-Regular';
+                word-spacing: 3px;
+                font-size: 14px}
+
+              .HO2{font-family: 'Poppins-Regular';
+                word-spacing: 3px;
+                font-size: 14px}
+
+              .HO3{font-family: 'Poppins-Regular';
+                word-spacing: 3px;
+                font-size: 14px}
+
+              .HO4{font-family: 'Poppins-Regular';
+                word-spacing: 3px;
+                font-size: 14px}
+
 
 
   

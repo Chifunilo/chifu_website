@@ -2,6 +2,14 @@
   font-family: 'Poppins-Regular';
   src: url('fonts/Poppins-Regular.ttf');
 }
+@font-face {
+  font-family: 'Poppins-Light';
+  src: url('fonts/Poppins-Light.ttf');
+}
+@font-face {
+  font-family: 'Nunito-Regular';
+  src: url('fonts/Nunito-Regular.ttf');
+}
 
 @font-face {
   font-family: 'Poppins-SemiBold';
@@ -23,11 +31,13 @@ body{}
 .sidebar{background-color: #000000e6;
   width: 300px;
   height:100vh;
+  padding: 10px;
   }
 
 .detailedsidebar{
-  background-color: #024355;
+  background-color: #fffbf9;
   flex-grow: 1;
+  padding-left: 50px;
   height: 100vh;
 
  }
@@ -47,13 +57,48 @@ margin-top: 30px;}
   color: white;
   font-family: 'JuliusSansOne-Regular';
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 400px;
+  padding-bottom: 10px;
 }
-.email{}
+.lblcontacts{text-align: center;
+  color: beige;
+  font-size: 16px;
+  font-family: 'JuliusSansOne-Regular'}
+
+.Telenumber{text-align: start;
+  font-family: 'Poppins-Light';
+  color: #fff4fd;
+font-size: 13px;}
+
+.email{ text-align: start;
+  color: beige;
+  font-family: 'Poppins-Light';
+  font-size: 13px;}
+
+  .emaillink{font-family: 'Poppins-Light';
+  color: #fff4fd;}
+
+  .location{font-family: 'Poppins-Light';
+    color: #fff4fd;
+    font-size: 13px;
+ }
+
+  .socialhandlelink{
+    font-family: 'Poppins-Light';
+  color: #fff4fd;}
 
   .cvlayouts{display: flex;
 
  }
+ .profilelbl{ font-family: 'arial';
+  font-size: 33px;
+  font-weight: 600px;
+
+}
+.profiledescription{font-family: 'arial';
+  font-size: 14px;
+ 
+}
 
 
   

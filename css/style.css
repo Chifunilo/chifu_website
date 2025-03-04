@@ -26,7 +26,7 @@ body {
   flex-direction: column;
   justify-content: center;
 align-items: center;
-  background: linear-gradient(#00648F,#005370,#004355, #00181B, #000000); /* Added linear gradient */
+  background: linear-gradient(#00648F,#005370,#004355, #00181B, #000000);
 }
 
 .content {
@@ -130,15 +130,5 @@ button img.profile-pic {
   background-color: #3498db00;
 }
 
-/* .profilespagebackground {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url('css/images/logo.png');
-  background-size: cover;
-  background-position: center;
-  z-index: -1; 
-} */
+
 

@@ -33,6 +33,8 @@ body{}
   height:100vh;
   padding: 10px;
   }
+  .sidebar2{background: linear-gradient(#061133,#0C1324,#0D151F,#0D151D,#0E161C,#08121A, #040F18, #000C17);
+  }
 
 .detailedsidebar{
   background: linear-gradient(#F6FDFF,#F3FCFF, #F2FCFF, #F0FBFF);
@@ -81,6 +83,12 @@ font-size: 13px;}
     color: #fff4fd;
     font-size: 13px;
  }
+ .linkedlink{font-family: 'Poppins-Light';
+  color: #fff4fd;
+  font-size: 13px;}
+  .linkedinlink{font-family: 'Poppins-Light';
+    color: #fff4fd;
+    font-size: 13px;}
 
   .socialhandlelink{
     font-family: 'Poppins-Light';

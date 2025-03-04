@@ -28,14 +28,14 @@
 
 body{}
  
-.sidebar{background-color: #000000e6;
+.sidebar{background: linear-gradient(#061133,#0C1324,#0D151F,#0D151D,#0E161C,#08121A, #040F18, #000C17);
   width: 300px;
   height:100vh;
   padding: 10px;
   }
 
 .detailedsidebar{
-  background-color: #fffbf9;
+  background: linear-gradient(#F6FDFF,#F3FCFF, #F2FCFF, #F0FBFF);
   flex-grow: 1;
   padding-left: 50px;
   height: 100vh;

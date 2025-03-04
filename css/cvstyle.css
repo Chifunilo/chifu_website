@@ -26,14 +26,12 @@
   src: url('fonts/JuliusSansOne-Regular.ttf');
 }
 
-body{}
+body{ background: linear-gradient(#F6FDFF,#F3FCFF, #F2FCFF, #F0FBFF);}
  
 .sidebar{background: linear-gradient(#061133,#0C1324,#0D151F,#0D151D,#0E161C,#08121A, #040F18, #000C17);
   width: 300px;
   height:100vh;
   padding: 10px;
-  }
-  .sidebar2{background: linear-gradient(#061133,#0C1324,#0D151F,#0D151D,#0E161C,#08121A, #040F18, #000C17);
   }
 
 .detailedsidebar{
